@@ -1,0 +1,6 @@
+com\myapp\spring\repository\ProductRepository.class
+com\myapp\spring\DevopsSpringGroovyApplication.class
+com\myapp\spring\controller\ProductAPI.class
+com\myapp\spring\domain\Product.class
+com\myapp\spring\service\ProductServiceimpl.class
+com\myapp\spring\service\ProductService.class
